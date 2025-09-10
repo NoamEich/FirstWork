@@ -11,13 +11,5 @@
             FontSize="35"
             TextColor="Blue"
             Margin="20"/>
-        <Label 
-            Text="Hello from Kasatot"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center"
-            FontSize="35"
-            TextColor="Red"
-            Margin="0,20,0,0"
-            />   
     </VerticalStackLayout>
 </ContentPage>
